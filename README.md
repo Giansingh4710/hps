@@ -1,6 +1,5 @@
-[Bhai Mohinder Singh SDO Ji](https://sdoji.xyz)
+[Bhai Harpreet Singh Ji Toronto](https://giansingh4710.github.io/hps/)
 
-This website is made for listening to mp3 audio files of my favirote artist(Bhai Mohinder Singh Ji SDO).
-This website can play random tracks of Bhai Mohinder Singh Ji SDO and can also search for track by them
+This website is made for listening to mp3 audio files of Bhai Harpreet Singh Ji.
 
-![SDOji](https://user-images.githubusercontent.com/73843250/153105820-f483a165-86e1-40e6-a43f-206935b764e7.JPG)
+![SDOji](https://i1.sndcdn.com/artworks-000462507930-kblz5x-t500x500.jpg)
